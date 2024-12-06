@@ -53,12 +53,6 @@ if(
 }
 
 
-// optionnel regex
-// if (!preg_match('[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]', $email)) {
-//     die("l'email est pas conforme");
-// }
-
-// etc .......
 
 
 
